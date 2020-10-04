@@ -12,3 +12,7 @@ I applied natural language processing to understand the sentiment in the latest 
 Used the newsapi to pull the latest news articles for Bitcoin and Ethereum and create a DataFrame of sentiment scores for each coin.
 <img width="541" alt="Screen Shot 2020-10-04 at 11 47 55 AM" src="https://user-images.githubusercontent.com/62320593/95020150-7d4b8000-0637-11eb-85d9-507f41b02216.png">
 
+### 2. Natural Language Processing
+In this section, I used NLTK and Python to tokenize the text for each coin. Then, I created a wordcloud to visualize the most occuring words.
+<img width="1078" alt="Screen Shot 2020-10-04 at 11 52 22 AM" src="https://user-images.githubusercontent.com/62320593/95020261-18dcf080-0638-11eb-97a2-e437077d1d75.png">
+
