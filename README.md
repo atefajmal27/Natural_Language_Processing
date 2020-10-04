@@ -1,4 +1,4 @@
-# Natural Language Processing
+# Natural Language Processing- Tales from the Crypto
 ![](https://user-images.githubusercontent.com/62320593/95019859-ca2e5700-0635-11eb-9c94-f7d698385c64.jpeg)
 
 ## Background
@@ -30,17 +30,17 @@ In this section, I built a named entity recognition model for both coins and vis
 #### Click [here](https://github.com/atefajmal27/Natural_Language_Processing/blob/main/crypto_sentiment.ipynb) to see the code and more details.
 
 ### Libraries and/or Modules used:
-pandas
-collections
-dotenv
-newsapi.newsapi_client
-matplotlib
-nltk
-nltk.corpus
-nltk.sentiment.vader
-nltk.stem
-nltk.tokenize
-re
-spacy
-wordcloud
+pandas <br/>
+collections <br/>
+dotenv <br/>
+newsapi.newsapi_client <br/>
+matplotlib <br/>
+nltk <br/>
+nltk.corpus <br/>
+nltk.sentiment.vader <br/>
+nltk.stem <br/>
+nltk.tokenize <br/>
+re <br/>
+spacy <br/>
+wordcloud <br/>
 
