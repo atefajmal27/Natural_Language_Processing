@@ -20,3 +20,9 @@ In this section, I used NLTK and Python to tokenize the text for each coin. To v
 
 <img width="1078" alt="Screen Shot 2020-10-04 at 11 54 29 AM" src="https://user-images.githubusercontent.com/62320593/95020330-76713d00-0638-11eb-804b-ac9d3c03dc7b.png">
 
+### 3. Named Entity Recognition
+In this section, I built a named entity recognition model for both coins and visualize the tags using SpaCy.
+
+<img width="1072" alt="Screen Shot 2020-10-04 at 12 01 08 PM" src="https://user-images.githubusercontent.com/62320593/95020472-61e17480-0639-11eb-8fa5-e71e09c60d1c.png">
+
+<img width="1072" alt="Screen Shot 2020-10-04 at 12 01 31 PM" src="https://user-images.githubusercontent.com/62320593/95020475-6574fb80-0639-11eb-8970-0b589bc2ccec.png">
