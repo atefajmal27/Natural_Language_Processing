@@ -26,3 +26,5 @@ In this section, I built a named entity recognition model for both coins and vis
 <img width="1072" alt="Screen Shot 2020-10-04 at 12 01 08 PM" src="https://user-images.githubusercontent.com/62320593/95020472-61e17480-0639-11eb-8fa5-e71e09c60d1c.png">
 
 <img width="1072" alt="Screen Shot 2020-10-04 at 12 01 31 PM" src="https://user-images.githubusercontent.com/62320593/95020475-6574fb80-0639-11eb-8970-0b589bc2ccec.png">
+
+##### Click [here](https://github.com/atefajmal27/Natural_Language_Processing/blob/main/crypto_sentiment.ipynb) to see the code and more details.
