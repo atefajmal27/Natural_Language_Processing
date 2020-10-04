@@ -13,6 +13,10 @@ Used the newsapi to pull the latest news articles for Bitcoin and Ethereum and c
 <img width="541" alt="Screen Shot 2020-10-04 at 11 47 55 AM" src="https://user-images.githubusercontent.com/62320593/95020150-7d4b8000-0637-11eb-85d9-507f41b02216.png">
 
 ### 2. Natural Language Processing
-In this section, I used NLTK and Python to tokenize the text for each coin. Then, I created a wordcloud to visualize the most occuring words.
+In this section, I used NLTK and Python to tokenize the text for each coin. To visualize better, I created a wordcloud of the most occuring words.
 <img width="1078" alt="Screen Shot 2020-10-04 at 11 52 22 AM" src="https://user-images.githubusercontent.com/62320593/95020261-18dcf080-0638-11eb-97a2-e437077d1d75.png">
+
+<img width="1078" alt="Screen Shot 2020-10-04 at 11 54 47 AM" src="https://user-images.githubusercontent.com/62320593/95020326-740ee300-0638-11eb-8d89-3710e2db7466.png">
+
+<img width="1078" alt="Screen Shot 2020-10-04 at 11 54 29 AM" src="https://user-images.githubusercontent.com/62320593/95020330-76713d00-0638-11eb-804b-ac9d3c03dc7b.png">
 
